@@ -5,9 +5,7 @@
 -💻Apaixonado por Programação
  <Br>
 -📘Em contante aprendizado
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorran-alves&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorran-alves&show_icons=true&theme=transparent)
 <br>
 <div style='display:inline_block;'>
   
@@ -22,9 +20,8 @@
 </div>
 <br>
 <div style='display:inline_block;margin-top:20px;'>
-  
   <a href='https://www.instagram.com/_lorran.alves_/?hl=pt'> <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
   <a href='https://www.linkedin.com/in/elio-lorran/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   <a href='#'> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
-
 </div>
+  <p>Aproveta que ta aqui e dê uma olhada nos meus projetos!⬇️<p>
