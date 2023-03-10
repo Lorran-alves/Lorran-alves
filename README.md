@@ -1,10 +1,14 @@
 <h2>Olá, Seja bem vindo ao meu GitHub</h1>
 
 -👨‍💻Desenvolvedor de Software
+<Br>
+-💻Apaixonado por Programação
+ <Br>
+-📘Em contante aprendizado
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorran-alves&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorran-alves&show_icons=true&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorran-alves&show_icons=true&theme=transparent)
+<br>
 <div style='display:inline_block;'>
   
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -16,6 +20,7 @@
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 
 </div>
+<br>
 <div style='display:inline_block;margin-top:20px;'>
   
   <a href='https://www.instagram.com/_lorran.alves_/?hl=pt'> <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
