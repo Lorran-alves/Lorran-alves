@@ -4,7 +4,7 @@
 <Br>
 -💻Apaixonado por Programação
  <Br>
--📘Em contante aprendizado
+-📘Em constante aprendizado
   
 ![Elio Lorran GitHub stats](https://github-readme-stats.vercel.app/api?username=lorran-alves&show_icons=true&theme=dark)
 <br>
@@ -21,9 +21,9 @@
 </div>
 <br>
 <div style='display:inline_block;margin-top:20px;'>
-  <a href='https://www.instagram.com/_lorran.alves_/?hl=pt'> <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+  <a mailto='lorrangamer81@gmail.com'> <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
   <a href='https://www.linkedin.com/in/elio-lorran/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-  <a href='#'> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
+  <a href='https://www.instagram.com/_lorran.alves_/?hl=pt'> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
 </div>
 <br>
 <p>Aproveta que ta aqui e dê uma olhada nos meus projetos⬇️!<p>
